@@ -1,2 +1,2 @@
-# skyscrapper
+# skyscraper
 Area of Building
